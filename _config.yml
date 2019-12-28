@@ -1,0 +1,85 @@
+# Site settings
+title: Dong Liang's CV 
+description: ddbullfrog's CV
+favicon: /assets/img/avatar.JPG
+baseurl: 
+url: https://ddbullfrog.github.io/resumecard
+rss_url: /pages/atom.xml
+google_analytics: UA-63653234-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Nayara Borges T. de L. Moraes
+  title: Bacharel em Psicologia
+  address: R. das Turmalinas, 51, Santo Antonio, SC.
+  email: nay.92@hotmail.com
+  link: 
+  weibo:
+  github: nayarabltm
+  linkedin: nayara-borges-de-lima-teodoro-moraes-93a18217a
+  twitter: nayarabltm
+  gavatar: /resumecard/assets/img/avatar.JPG
+  stackoverflow:
+#  stackoverflow: 4582127
+  workHistory:
+    - work1:
+      company: Humaniza Consultoria Júnior em Gestão de Pessoas
+      location: Jataí, Goiás
+      title: Diretora de Projetos e Negócios 
+      started: 2019
+      duration: Abr 2019 - Dez 2019
+      description: Atuou no desenvolvimento de serviços como Recrutamento e Seleção, Diagnóstico Organizacional; Análise e Descrição de Cargos, Pesquisa de Clima Organizacional e Treinamento e Desenvolvimento com foco em Liderança, Gestão de Pessoas, Postura Profissional, Elaboração de Currículos, Vendas e Comunicação;
+    - work2:
+      company: BRF Brasil Foods S/A
+      location: Jataí-GO
+      title: Estágio em Recursos Humanos
+      started: 2019
+      duration: Abr 2019 - Jul 2019
+      description: Atuou no planejamento e realização de intervenções práticas em processos de treinamento e desenvolvimento de pessoas.                                                                     
+    - work3:
+      company: SPA – Serviço de Psicologia Aplicada
+      location: Goiás
+      title: Estágio Específico em Clínica do Trabalho 
+      started: 2019
+      duration: Fev 2019 - Dez 2019
+      description: Atuou na realização da clínica do trabalho, com atendimentos em grupo e individuais para escuta do sofrimento no trabalho, a partir de estudos orientados e pesquisa bibliográfica com base no referencial teórico da psicodinâmica do trabalho com profissionais
+  educationHistory:
+    - education1:
+      organization: Universidade Federal de Goiás (UFG)
+      location: Goias
+      degree: Bacharelado
+      major: Psicologia
+      started: 2015
+      duration: (2015 - 2019)
+      description: Durante a graduação fui bolsista de iniciação científica pelo CNPq na modalidade PIVIC. Também fui monitora bolsista na disciplina de Técnicas de Avaliação Psicológica. Fiz estágio específico em Clínica do Trabalho com atendimento em grupo e individual para escuta do sofrimento no trabalho com profissionais da saúde e da educação pública. Realizei ainda, vários projetos de extensão e estágios básicos voltados à Psicologia Social em instituições públicas, de ensino e carentes.
+  languages:
+    - language1: 
+      name: Português
+      proficiency: Nativo
+    - language2:
+      name: Inglês
+      proficiency: Intermediário
+    - language3:
+      name: Espanhol
+      proficiency: Intermediário
+  programmingSkills:
+    - skill1:
+      name: Treinamento e desenvolvimento
+      percentage: 100%
+    - skill2:
+      name: Recrutamento e seleção
+      percentage: 90%
+    - skill3:
+      name: Diagnóstico organizacional
+      percentage: 70%
+    - skill4:
+      name: Pesquisa de clima organizacional
+      percentage: 70%
+    - skill5:
+      name: Inteligência emocional
+      percentage: 90%

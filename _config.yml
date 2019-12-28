@@ -69,11 +69,11 @@ author:
       proficiency: Intermediário
   programmingSkills:
     - skill1:
-      name: Treinamento e desenvolvimento
+      name: Recrutamento e seleção
       percentage: 100%
     - skill2:
-      name: Recrutamento e seleção
-      percentage: 90%
+      name: Treinamento e desenvolvimento
+      percentage: 100%
     - skill3:
       name: Diagnóstico organizacional
       percentage: 70%
